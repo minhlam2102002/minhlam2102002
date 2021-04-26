@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as a teaching assistant at BigO Coding
+- 🌱 I’m currently learning informatics at University of Science
+- 📫 Reach me at my email: minhlam2102002@gmail.com
