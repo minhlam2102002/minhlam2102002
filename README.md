@@ -1,3 +1,4 @@
+<div align="center"> 
 <p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /></p>
 
 <p align="center">
@@ -58,4 +59,4 @@
 
 <h3 align="left">Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/minhlam2102002"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minhlam2102002" /></a></p><br><br>
-
+</div>
