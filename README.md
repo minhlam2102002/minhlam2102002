@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&section=header&color=0:b993d6,100:8ca6db" width="100vw"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&section=header&color=0:b993d6,100:8ca6db" width="100%"/>
 <p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /></p>
 
 <p align="center">
