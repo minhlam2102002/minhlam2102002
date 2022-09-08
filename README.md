@@ -3,7 +3,7 @@
 
 <!-- Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Typing SVG" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&authorMe&myquote=Life+is+a+challenge." alt="Typing SVG" />
 </p>
 
 <!-- Header -->
