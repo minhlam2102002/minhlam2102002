@@ -1,9 +1,11 @@
-<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhlam2102002?style=social&link=https://github.com/minhlam2102002"> -->
-<img src="https://komarev.com/ghpvc/?username=minhlam2102002&color=blueviolet">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=&size=16&pause=1000&color=A851F7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Lam." alt="Typing SVG" />
 </p>
-<p align="left"> <a href="https://twitter.com/minhlam2102002" target="blank"><img src="https://img.shields.io/twitter/follow/minhlam2102002?logo=twitter&style=for-the-badge" alt="minhlam2102002" /></a> </p>
+ <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=minhlam2102002&color=blueviolet">
+  <a href="https://twitter.com/minhlam2102002" target="blank"><img src="https://img.shields.io/twitter/follow/minhlam2102002?logo=twitter&style=for-the-badge" alt="minhlam2102002" /></a> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhlam2102002?style=social&link=https://github.com/minhlam2102002">
+</p>
 
 <p align="center">
   <a href="https://github.com/minlam2102002">
