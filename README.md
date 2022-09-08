@@ -12,7 +12,9 @@
 
 <p align="center">
   <a href="https://github.com/minlam2102002">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhlam2102002&repo=shopping-app" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhlam2102002&repo=shopping-app&theme=[theme]" />
   </a>
 </p>
 
+[username]: minhlam2102002
+[theme]: material-palenight
