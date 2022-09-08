@@ -15,11 +15,11 @@
 </p>
 
 <!-- Baget -->
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=minhlam2102002&color=blueviolet">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/minhlam2102002?style=social&link=https://twitter.com/minhlam2102002">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhlam2102002?style=social&link=https://github.com/minhlam2102002">
-</p>
+</p> -->
 
 <!-- Status -->
 <p align="center">
@@ -40,12 +40,12 @@
 </p>
 
 
-<h3 align="center">My favourite repository:</h3>
+<!-- <h3 align="center">My favourite repository:</h3>
 <p align="center">
   <a href="https://github.com/minlam2102002">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhlam2102002&repo=shopping-app&theme=material-palenight" />
   </a>
-</p>
+</p> -->
 
 <!-- Spotify -->
 <!-- <p align="center">
