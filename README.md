@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:b993d6,100:8ca6db&height=100&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:c691e9,100:89dcfe&height=100" width="100%"/>
 
 <p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /></p>
 
@@ -62,4 +62,4 @@
 <h3 align="center">Support me:</h3>
 <a href="https://www.buymeacoffee.com/minhlam2102002"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minhlam2102002" />
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:b993d6,100:8ca6db&height=100&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:c691e9,100:89dcfe&height=100" width="100%"/>
