@@ -1,6 +1,3 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:c691e9,100:89dcfe&height=100" width="100%"/>
-
 <!-- Gif -->
 <p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /></p>
 
@@ -9,7 +6,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Typing SVG" />
 </p>
 
-***
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:c691e9,100:89dcfe&height=100" width="100%"/>
 
 <!-- Text -->
 <p align="center">
