@@ -1,5 +1,7 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/minhlam2102002?style=social&color=blueviolet">
-
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhlam2102002?style=social&link=https://github.com/minhlam2102002"> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=16&pause=1000&color=A851F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+my+name+is+Lam." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/minlam2102002">
