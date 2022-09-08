@@ -1,6 +1,9 @@
+<p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /></p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=&size=16&pause=1000&color=A851F7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Lam." alt="Typing SVG" />
 </p>
