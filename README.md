@@ -1,3 +1,6 @@
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/minhlam2102002?style=social&color=blueviolet">
+
+
 <p align="center">
   <a href="https://github.com/minlam2102002">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight" />
