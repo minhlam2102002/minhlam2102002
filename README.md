@@ -41,8 +41,10 @@
          src="http://github-readme-streak-stats.herokuapp.com?user=minhlam2102002&theme=material-palenight" 
     />
   </a>
- 
-  <!-- Lang stat -->
+</p>
+
+<!-- Lang stat -->
+<p align="center">
   <a href="https://github.com/minhlam2102002">
     <img 
          align="center" 
@@ -50,9 +52,8 @@
          height="200px"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight&layout=compact" 
     />
-  </a>
+  </a >
 </p>
-
 
 <!-- <h3 align="center">My favourite repository:</h3>
 <p align="center">
