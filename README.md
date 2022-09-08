@@ -25,7 +25,7 @@
 
 <!-- Status -->
 <h3 align="center">My Github status:</h3>
-<p align="center">
+<div align="center">
   <!--Stat -->
   <a href="https://github.com/minhlam2102002">
     <img 
@@ -45,11 +45,11 @@
          src="http://github-readme-streak-stats.herokuapp.com?user=minhlam2102002&theme=material-palenight" 
     />
   </a>
-</p>
+</div>
 
 <!-- Langueges stat -->
 <h3 align="center">Most used language on Github: </h3>
-<p align="center">
+<div align="center">
   <a href="https://github.com/minhlam2102002">
     <img 
          align="center" 
@@ -58,7 +58,7 @@
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight&layout=compact" 
     />
   </a >
-</p>
+</div>
 
 <!-- <h3 align="center">My favourite repository:</h3>
 <p align="center">
