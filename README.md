@@ -19,7 +19,7 @@
 
 <!-- Status -->
 <p align="center">
-  <a href="https://github.com/minlam2102002">
+  <a href="https://github.com/minlam2102002" style="margin: 10px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight" />
   </a>
   
