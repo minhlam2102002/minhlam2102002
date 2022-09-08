@@ -26,7 +26,8 @@
   <a href="https://github.com/minhlam2102002">
     <img 
          align="center" 
-         width="50%"
+         width="40%"
+         height="200px"
          src="https://github-readme-stats.vercel.app/api?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight" 
     />
   </a>
@@ -35,7 +36,8 @@
   <a href="https://github.com/minhlam2102002">
     <img 
          align="center" 
-         width="50%"
+         width="40%"
+         height="200px"
          src="http://github-readme-streak-stats.herokuapp.com?user=minhlam2102002&theme=material-palenight" 
     />
   </a>
@@ -44,7 +46,8 @@
   <a href="https://github.com/minhlam2102002">
     <img 
          align="center" 
-         width="50%"
+         width="40%"
+         height="200px"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight&layout=compact" 
     />
   </a>
