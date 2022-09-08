@@ -3,7 +3,7 @@
 </p>
  <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=minhlam2102002&color=blueviolet">
-  <a href="https://twitter.com/minhlam2102002" target="blank"><img src="https://img.shields.io/twitter/follow/minhlam2102002?logo=twitter&style=for-the-badge" alt="minhlam2102002" /></a> 
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/minhlam2102002?style=social&link=https://twitter.com/minhlam2102002">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhlam2102002?style=social&link=https://github.com/minhlam2102002">
 </p>
 
