@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:b993d6,100:8ca6db&height=200&animation=twinkling" width="100%"/>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:b993d6,100:8ca6db&height=100&animation=twinkling" width="100%"/>
+
 <p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /></p>
 
 <p align="center">
@@ -57,9 +59,7 @@
 <a href="https://www.leetcode.com/minhlam2102002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minhlam2102002" height="30" width="40" /></a>
 </p>
 
-<div align="center"> 
-<h3>Support me:</h3>
+<h3 align="center">Support me:</h3>
 <a href="https://www.buymeacoffee.com/minhlam2102002"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minhlam2102002" />
-</div>
-<img src="https://capsule-render.vercel.app/api?type=wave&section=footer&color=0:b993d6,100:8ca6db"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:b993d6,100:8ca6db&height=200&animation=twinkling" width="100%"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:b993d6,100:8ca6db&height=100&animation=twinkling" width="100%"/>
