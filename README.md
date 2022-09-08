@@ -13,7 +13,8 @@
 
 <!-- Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=500&  color=C691E9&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Lam.;I'm+a+third-year+student+fascinated+by+coding.%F0%9F%92%BB." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=3000&color=C691E9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Lam." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=5000&pause=1000&color=C691E9&center=true&vCenter=true&width=500&lines=I'm+a+third-year+student+fascinated+by+coding." alt="Typing SVG" />
 </p>
 
 <!-- Baget -->
