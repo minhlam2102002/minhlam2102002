@@ -7,7 +7,7 @@
 </p>
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:c691e9,100:89dcfe&height=100" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:c691e9,100:89dcfe&height=150" width="100%"/>
 
 <!-- Text -->
 <p align="center">
@@ -93,4 +93,4 @@
   </a>
 </p>
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:c691e9,100:89dcfe&height=100" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:c691e9,100:89dcfe&height=200" width="100%"/>
