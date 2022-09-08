@@ -12,8 +12,8 @@
 <p align="center">
   <a href="https://github.com/minlam2102002">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight" />
-    
   </a>
+  
   <a href="https://github.com/minlam2102002">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minhlam2102002&theme=material-palenight" />
   </a>
@@ -23,18 +23,15 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/minlam2102002">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight&layout=compact" />
-  </a>
-</p>
 
+<h3 align="left">My favourite repository:</h3>
 <p align="center">
   <a href="https://github.com/minlam2102002">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhlam2102002&repo=shopping-app&theme=material-palenight" />
   </a>
 </p>
 
+<!-- Spotify -->
 <p align="center">
   <a href="https://github.com/minlam2102002">
     <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1" />
