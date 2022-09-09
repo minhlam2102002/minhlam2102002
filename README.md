@@ -1,6 +1,3 @@
-<!-- Gif -->
-<p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /></p>
-
 <!-- Quote -->
 <!--
 <p align="center">
@@ -10,6 +7,9 @@
 
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:c691e9,100:89dcfe&height=150" width="100%"/>
+
+<!-- Gif -->
+<p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /></p>
 
 <!-- Text -->
 <p align="center">
