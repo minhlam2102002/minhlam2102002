@@ -2,9 +2,11 @@
 <p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /></p>
 
 <!-- Quote -->
+<!--
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&authorMe&myquote=Life+is+a+challenge." alt="Typing SVG" />
 </p>
+-->
 
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:c691e9,100:89dcfe&height=150" width="100%"/>
